@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+body{
+    font-family: serif;
+    background-color: black;
+    color:white;
+    font-size: 20px
+}
+.barra{
+    width: 100vw; 
+    height: 12vh;
+    background: white;    
+    opacity: 0.2;
+}
+.f-perfil {
+   width: 5%;
+   position: absolute;
+   left: 0;
+   top: 1%;
+   border-radius: 50%;
+}
+.name{
+    text-transform: uppercase;
+    font-size: 1.5em;
+    position: absolute;
+    top: 3%;
+    left: 7%;
+}
+.top{
+    display:flexbox;
+}
+.nav{
+    position: absolute;
+    right:5%;
+    top: 4%;
+}
+.list{
+    text-align: center;
+}.list li{
+    display: inline-block;
+}
+.list a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-left: 10px;
+    transition: all 2s;
+    cursor: pointer;
+}
+.list a:hover{
+ color: gold;  
+}
+.central{
+    width: 100vw;
+    height: 550px;
+    background-image: url(./img/mario-font4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
