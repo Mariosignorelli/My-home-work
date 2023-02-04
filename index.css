@@ -57,9 +57,23 @@ body{
 }
 .central{
     width: 100vw;
-    height: 550px;
+    height: 554px;
     background-image: url(./img/mario-font4.png);
     background-repeat: no-repeat;
     background-size: cover;
-    display: flex;
+}
+.central-main{
+ text-shadow: currentColor;
+}
+.title-main{
+   position: relative;
+    top: 250px;
+    right: 30%;
+   font-size: 2.5em;
+}
+.p-main{
+    position: relative;
+    top: 260px;
+    right: 18%;
+    font-size: 1.5em;
 }
