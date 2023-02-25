@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+:root{
+    --my-font: 'font-family: 'Courgette', cursive';
+    --tst-color: #fff;
+}
+h1{
+    font-family: var(--my-font);
+    
+}
+body{
+    background-image: url(./img/bg1-contao.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    width: 100vw;
+    height: 300px;
+}

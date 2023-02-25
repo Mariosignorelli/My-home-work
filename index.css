@@ -95,7 +95,7 @@ body{
     position: relative;
     top: 260px;
     right: 30%;
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-family: 'Courgette', cursive;
 }
 
@@ -139,4 +139,13 @@ li a, .dropbtn {
     text-align: left;
   }
   .dropdown-content a:hover {background-color:transparent;}
-  .dropdown:hover .dropdown-content {display: block;}
+  .dropdown:hover .dropdown-content {display: block;
+}
+.s-midia{
+   display: flex;
+   justify-content: center;
+}
+.icons a{
+   color:#fff;
+   font-size: 50px;
+}
