@@ -1,4 +1,4 @@
-# My-home-work     ![Autor](./img/mario.jpg | width=50)
+# My-home-work     ![Autor](https://avatars.githubusercontent.com/u/62727998?v=4 )
 
 
  :hammer: Funcionalidades do projeto
