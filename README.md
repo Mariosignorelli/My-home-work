@@ -1,9 +1,9 @@
-# My-home-work    
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/62727998?v=" width="50" title="hover text">
+  <img src="https://avatars.githubusercontent.com/u/62727998?v=" width="100" title="hover text">
  
 </p>
+# My-home-work    
+
  :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Este projeto tem como finalidade demonstrar meus conhecimento adquirido até aqui. 
