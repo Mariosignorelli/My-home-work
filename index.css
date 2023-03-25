@@ -17,6 +17,11 @@ body{
     overflow: hidden;
    cursor:pointer;
 }
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 /* Header e nav */
 .barra{
     width: 100vw; 
@@ -149,3 +154,71 @@ li a, .dropbtn {
    color:#fff;
    font-size: 50px;
 }
+/* Responsividade*/
+@media screen and (max-width:360px ) {
+.container{
+    margin: auto;
+    display: block;
+}
+.barra{
+    height: 10vh;
+}
+.f-perfil {
+    width: 15%;
+    position: absolute;
+    left: 2px;
+    top: 12%;
+    border-radius: 50%;
+    
+ }
+ .name{
+    text-transform: uppercase;
+    font-size: 100%;
+    position: absolute;
+    top: 30%;
+    left: 27%;
+    box-shadow:5px 2px 2px black;
+}
+.nav{
+   display: block; 
+   margin: auto;
+   font-size: 100%;
+   position: absolute;
+   left:0%;
+}
+.list li{
+    display: block;
+    position: relative;
+    top: 40px;
+    left: 0%;
+}
+li.dropdown {
+    display: none;
+  }
+.title-main{
+    position: relative;
+     top: 250px;
+     right: 5%;
+    font-size: 1.5em;
+    font-family: 'Courgette', cursive;
+  
+ }
+ .p-main{
+    position: relative;
+    top: 260px;
+    right: 5%;
+    font-size: 0.8em;
+    font-family: 'Courgette', cursive;
+}
+.s-midia{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: auto;
+ }
+}
+@media screen  and (max-width:359){
+  .container{
+    display: flex;
+  }
+  }
