@@ -1,4 +1,4 @@
-# My-home-work
+# My-home-work     ![Autor](./img/mario.jpg)
 
 
  :hammer: Funcionalidades do projeto
