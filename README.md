@@ -1,6 +1,9 @@
-# My-home-work     ![Autor](https://avatars.githubusercontent.com/u/62727998?v=4 50x50)
+# My-home-work    
 
-
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/62727998?v=" width="50" title="hover text">
+ 
+</p>
  :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: Este projeto tem como finalidade demonstrar meus conhecimento adquirido até aqui. 
