@@ -1,5 +1,5 @@
-# My-home-work    <p align="right" border-radius="50%">
-  <img src="https://avatars.githubusercontent.com/u/62727998?v=" width="100" title="hover text">
+# My-home-work    <p align="right" >
+  <img src="https://avatars.githubusercontent.com/u/62727998?v=" width="100" border-radius="50" title="hover text">
  
 </p>
 
