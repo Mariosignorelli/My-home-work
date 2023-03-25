@@ -1,6 +1,4 @@
-# My-home-work    
-
-<p align="center">
+# My-home-work    <p align="right">
   <img src="https://avatars.githubusercontent.com/u/62727998?v=" width="100" title="hover text">
  
 </p>
