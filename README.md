@@ -9,4 +9,3 @@
 - `Funcionalidade 2`:Aqui você vai encontrar trabalhos execuntados e pratica de estudos nas liguagem HTML5 CSS3 JAVASCRIPT 
 
 
-:construction: Projeto em construção :construction:
